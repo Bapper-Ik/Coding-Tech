@@ -36,4 +36,4 @@
 
 <!--START_SECTION:activity-->
 
-![Yakubu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bapper-IK&count_private=true&show_icons=true&theme=dark)
+<!-- ![Yakubu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bapper-IK&count_private=true&show_icons=true&theme=dark) -->
