@@ -31,8 +31,6 @@
 
 
 <h1 align="left">Connect with me:</h1>
-<h3 align="left">
-  <a href="https://twitter.com/nasirlaliyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="nasirlaliyu" height="30" width="40" /></a>
 
 **yakubumusayakubu17@gmail.com**
 
